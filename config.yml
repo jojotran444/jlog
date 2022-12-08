@@ -1,0 +1,12 @@
+baseURL: ""
+languageCode: en-us
+title: jlog
+theme: hugo-dusky-neon-potato
+menu:
+  main:
+    - name: home
+      url: /
+      weight: 1
+    - name: about
+      url: /about
+      weight: 2
